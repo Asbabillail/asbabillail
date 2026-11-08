@@ -1,63 +1,46 @@
-
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1000" height="280"
-     viewBox="0 0 1000 280"
+     width="1000" height="280" viewBox="0 0 1000 280"
      role="img"
-     aria-label="Abdul Samad Babillail engineering profile header">
+     aria-label="A4.s03. Abdul Samad Babillail. Business Development, IT Infrastructure, Workflow Automation, and AI Tooling.">
 
-  <!-- Premium white background -->
-  <rect width="1000" height="280"
-        rx="18" fill="#FAFAF8"/>
+  <title>A4.s03 — Abdul Samad Babillail</title>
+  <desc>A minimal, premium-white professional header with a cobalt-blue signature stroke that draws once.</desc>
 
-  <!-- Small signature -->
-  <text x="55" y="56"
-        font-family="Arial, sans-serif"
-        font-size="18"
-        font-weight="700"
-        fill="#2563EB">
-    A4.s03
-  </text>
+  <!-- Premium paper surface, with a quiet edge for dark-mode contrast -->
+  <rect x="0.5" y="0.5" width="999" height="279" rx="16"
+        fill="#FAFAF8" stroke="#E6E8ED"/>
 
-  <!-- Editorial top divider -->
-  <line x1="55" y1="78"
-        x2="945" y2="78"
-        stroke="#DFE3E8"/>
+  <!-- Brand signature and editorial folio -->
+  <text x="55" y="51" font-family="Arial, Helvetica, sans-serif"
+        font-size="19" font-weight="700" letter-spacing="0.1"
+        fill="#2563EB">A4.s03</text>
 
-  <!-- Main identity -->
-  <text x="50" y="171"
-        font-family="Georgia, serif"
-        font-size="73"
-        fill="#171A21">
-    Abdul Samad.
-  </text>
+  <text x="945" y="49" text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11" letter-spacing="1.65"
+        fill="#7D8490">ENGINEERING / PORTFOLIO</text>
 
-  <!-- Professional focus: four specialties -->
-  <text x="55" y="211"
-        font-family="Arial, sans-serif"
-        font-size="17"
-        letter-spacing="0.4"
-        fill="#667085">
-    Business Development · Infrastructure Builder · Automation Builder · AI Tooling
-  </text>
+  <line x1="55" y1="76" x2="945" y2="76"
+        stroke="#DFE3E8" stroke-width="1"/>
 
-  <!-- Cobalt signature line -->
-  <line x1="55" y1="244"
-        x2="945" y2="244"
-        stroke="#E2E6ED"
-        stroke-width="2"/>
+  <!-- Primary identity: full professional name -->
+  <text x="53" y="165" font-family="Georgia, 'Times New Roman', serif"
+        font-size="60" font-weight="400" letter-spacing="-1.3"
+        fill="#171A21">Abdul Samad Babillail.</text>
 
-  <line x1="55" y1="244"
-      x2="285" y2="244"
-      stroke="#2563EB"
-      stroke-width="3">
+  <!-- Professional disciplines, written for clarity rather than repetition -->
+  <text x="55" y="207" font-family="Arial, Helvetica, sans-serif"
+        font-size="16.5" letter-spacing="0.15"
+        fill="#667085">Business Development · IT Infrastructure · Workflow Automation · AI Tooling</text>
 
-  <animate
-    attributeName="x2"
-    from="55"
-    to="285"
-    dur="2s"
-    fill="freeze"/>
+  <!-- Quiet rule and an original one-time signature flourish -->
+  <line x1="55" y1="244" x2="945" y2="244"
+        stroke="#E2E6ED" stroke-width="1.6"/>
 
-</line>
-
+  <path d="M55 244 C128 244, 170 245, 225 242 S340 239, 410 244"
+        fill="none" stroke="#2563EB" stroke-width="3"
+        stroke-linecap="round" stroke-dasharray="370" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="370" to="0"
+             dur="1.9s" fill="freeze"/>
+  </path>
 </svg>
