@@ -78,15 +78,15 @@ These describe areas of responsibility and project participation—not audited p
 
 ### Certificates & professional learning
 
-A selected gallery of my training and certifications. **Select an image to view it larger.**
+A selected gallery of my qualifications and professional learning. **Click any certificate image to see it larger.**
 
 | | |
 | :---: | :---: |
-| <a href="./assets/certificates/google-educator.svg"><img src="./assets/certificates/google-educator.svg" alt="Visual summary: Google Certified Educator Level 1, valid through February 2029" width="360" /></a> | <a href="./assets/certificates/smart-mxv5.svg"><img src="./assets/certificates/smart-mxv5.svg" alt="Visual summary: SMART MX-V5 Display with iQ 4 training, completed January 2026" width="360" /></a> |
-| <a href="./assets/certificates/data-science-python.svg"><img src="./assets/certificates/data-science-python.svg" alt="Visual summary: Data Science with Python, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/network-fundamentals.svg"><img src="./assets/certificates/network-fundamentals.svg" alt="Visual summary: CCNA network fundamentals course completion; not Cisco CCNA certification" width="360" /></a> |
-| <a href="./assets/certificates/data-visualization.svg"><img src="./assets/certificates/data-visualization.svg" alt="Visual summary: Introduction to Data Visualization, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/forage-consulting.svg"><img src="./assets/certificates/forage-consulting.svg" alt="Visual summary: SAP and Forage technical consulting virtual internship simulation" width="360" /></a> |
+| <a href="./assets/certificates/google-educator-level1.webp"><img src="./assets/certificates/google-educator-level1.webp" alt="Certificate image preview: Google Certified Educator Level 1, valid through February 2029" width="360" /></a> | <a href="./assets/certificates/smart-mxv5-iq4.webp"><img src="./assets/certificates/smart-mxv5-iq4.webp" alt="Certificate image preview: SMART MX-V5 Display with iQ 4 training, completed January 2026" width="360" /></a> |
+| <a href="./assets/certificates/data-science-python.webp"><img src="./assets/certificates/data-science-python.webp" alt="Certificate image preview: Data Science with Python, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/network-fundamentals.webp"><img src="./assets/certificates/network-fundamentals.webp" alt="Certificate image preview: CCNA network fundamentals course completion; not Cisco CCNA certification" width="360" /></a> |
+| <a href="./assets/certificates/data-visualization.webp"><img src="./assets/certificates/data-visualization.webp" alt="Certificate image preview: Introduction to Data Visualization, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/forage-technical-consulting.webp"><img src="./assets/certificates/forage-technical-consulting.webp" alt="Certificate image preview: SAP and Forage technical consulting virtual internship simulation" width="360" /></a> |
 
-<sub>These image cards are **visual summaries** based on certificates provided for review; they are not reproductions of the issuing organizations' documents. Original certificate scans and verification identifiers are not published. Course completions and virtual job simulations are distinct from vendor professional certifications.</sub>
+<sub>Images are previews rendered from my original certificates, with verification codes obscured where present. A course completion or virtual job simulation should not be confused with a vendor professional certification.</sub>
 
 <details>
 <summary>Other training & recognition</summary>
