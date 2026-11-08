@@ -31,13 +31,13 @@
     Abdul Samad.
   </text>
 
-  <!-- Professional focus -->
+  <!-- Professional focus: four specialties -->
   <text x="55" y="211"
         font-family="Arial, sans-serif"
-        font-size="16"
-        letter-spacing="2"
+        font-size="17"
+        letter-spacing="0.4"
         fill="#667085">
-    BABILLAIL / INFRASTRUCTURE / AUTOMATION / AI
+    Business Development · Infrastructure Builder · Automation Builder · AI Tooling
   </text>
 
   <!-- Cobalt signature line -->
