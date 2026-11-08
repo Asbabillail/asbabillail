@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+  <title id="title">A4.s03 — Four disciplines</title>
+  <desc id="desc">A minimal editorial graphic linking business development, infrastructure, workflow automation, and AI tooling.</desc>
+  <rect x="1" y="1" width="1198" height="243" rx="15" fill="#FAFAF8" stroke="#E0E3E9" stroke-width="2"/>
+  <text x="33" y="40" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="15" fill="#2563EB">A4.s03</text>
+  <text x="1167" y="40" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#7D8490">PRACTICE / 04</text>
+  <path d="M33 58 H1167" stroke="#E1E5EB" stroke-width="1"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="34" y="97" font-size="15" font-weight="700" fill="#2563EB">01</text>
+    <text x="34" y="140" font-size="23" font-weight="700" fill="#171A21">Business</text>
+    <text x="34" y="169" font-size="23" font-weight="700" fill="#171A21">Development</text>
+    <text x="316" y="97" font-size="15" font-weight="700" fill="#2563EB">02</text>
+    <text x="316" y="140" font-size="23" font-weight="700" fill="#171A21">IT</text>
+    <text x="316" y="169" font-size="23" font-weight="700" fill="#171A21">Infrastructure</text>
+    <text x="605" y="97" font-size="15" font-weight="700" fill="#2563EB">03</text>
+    <text x="605" y="140" font-size="23" font-weight="700" fill="#171A21">Workflow</text>
+    <text x="605" y="169" font-size="23" font-weight="700" fill="#171A21">Automation</text>
+    <text x="900" y="97" font-size="15" font-weight="700" fill="#2563EB">04</text>
+    <text x="900" y="140" font-size="23" font-weight="700" fill="#171A21">AI</text>
+    <text x="900" y="169" font-size="23" font-weight="700" fill="#171A21">Tooling</text>
+  </g>
+  <path d="M300 82 V200 M590 82 V200 M883 82 V200" stroke="#DFE3E8" stroke-width="1"/>
+  <path d="M34 211 H1166" stroke="#E1E5EB" stroke-width="2"/>
+  <path d="M34 211 H326" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+</svg>
