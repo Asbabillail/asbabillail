@@ -76,16 +76,26 @@ These describe areas of responsibility and project participation—not audited p
 **Infrastructure & operations:** Fortinet · Cisco networking · access control/CCTV concepts · vendor coordination  
 **Building & automation:** Python · Streamlit · TypeScript · Next.js · React · Supabase · GitHub Actions
 
-### Credentials, learning and recognition
+### Certificates & professional learning
 
-- **Google Certified Educator — Level 1** — Google for Education (February 2026–February 2029).
-- **Getting Started: Active Learning on the SMART MX-V5 Display with iQ 4** — SMART Technologies (January 2026).
-- **Data Science with Python; Network Fundamentals for CCNA 200-301; Introduction to Data Visualization** — Simplilearn **course completions**, not vendor professional certifications.
-- **Microsoft Excel for Data Analysis** — training course.
-- **Technical Consulting Virtual Internship / Job Simulation** — Forage.
-- **Certificates of appreciation** — SMART Technologies and Yenepoya International School (2025).
+A selected gallery of my training and certifications. **Select an image to view it larger.**
 
-I keep full certificate scans and IDs off my public GitHub profile. In particular, completing a CCNA fundamentals course is **not** the same as holding Cisco CCNA certification.
+| | |
+| :---: | :---: |
+| <a href="./assets/certificates/google-educator.svg"><img src="./assets/certificates/google-educator.svg" alt="Visual summary: Google Certified Educator Level 1, valid through February 2029" width="360" /></a> | <a href="./assets/certificates/smart-mxv5.svg"><img src="./assets/certificates/smart-mxv5.svg" alt="Visual summary: SMART MX-V5 Display with iQ 4 training, completed January 2026" width="360" /></a> |
+| <a href="./assets/certificates/data-science-python.svg"><img src="./assets/certificates/data-science-python.svg" alt="Visual summary: Data Science with Python, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/network-fundamentals.svg"><img src="./assets/certificates/network-fundamentals.svg" alt="Visual summary: CCNA network fundamentals course completion; not Cisco CCNA certification" width="360" /></a> |
+| <a href="./assets/certificates/data-visualization.svg"><img src="./assets/certificates/data-visualization.svg" alt="Visual summary: Introduction to Data Visualization, Simplilearn course completion" width="360" /></a> | <a href="./assets/certificates/forage-consulting.svg"><img src="./assets/certificates/forage-consulting.svg" alt="Visual summary: SAP and Forage technical consulting virtual internship simulation" width="360" /></a> |
+
+<sub>These image cards are **visual summaries** based on certificates provided for review; they are not reproductions of the issuing organizations' documents. Original certificate scans and verification identifiers are not published. Course completions and virtual job simulations are distinct from vendor professional certifications.</sub>
+
+<details>
+<summary>Other training & recognition</summary>
+
+- Microsoft Excel for Data Analysis — Udemy course.
+- SMART Technologies appreciation and Yenepoya International School appreciation (2025).
+- Additional professional-development courses and workshops.
+
+</details>
 
 ### What I'm exploring next
 
