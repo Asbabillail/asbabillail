@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="280"
+     viewBox="0 0 1000 280"
+     role="img"
+     aria-label="Abdul Samad Babillail engineering profile header">
+
+  <!-- Premium white background -->
+  <rect width="1000" height="280"
+        rx="18" fill="#FAFAF8"/>
+
+  <!-- Small signature -->
+  <text x="55" y="56"
+        font-family="Arial, sans-serif"
+        font-size="18"
+        font-weight="700"
+        fill="#2563EB">
+    A4.s03
+  </text>
+
+  <!-- Editorial top divider -->
+  <line x1="55" y1="78"
+        x2="945" y2="78"
+        stroke="#DFE3E8"/>
+
+  <!-- Main identity -->
+  <text x="50" y="171"
+        font-family="Georgia, serif"
+        font-size="73"
+        fill="#171A21">
+    Abdul Samad.
+  </text>
+
+  <!-- Professional focus -->
+  <text x="55" y="211"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        letter-spacing="2"
+        fill="#667085">
+    BABILLAIL / INFRASTRUCTURE / AUTOMATION / AI
+  </text>
+
+  <!-- Cobalt signature line -->
+  <line x1="55" y1="244"
+        x2="945" y2="244"
+        stroke="#E2E6ED"
+        stroke-width="2"/>
+
+  <line x1="55" y1="244"
+        x2="285" y2="244"
+        stroke="#2563EB"
+        stroke-width="3"/>
+
+</svg>
