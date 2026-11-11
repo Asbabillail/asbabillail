@@ -1,88 +1,76 @@
-<!--
-A4.s03 / GitHub ASCEND. Proposed public profile content.
-Project descriptions and credentials have been checked against public repos and supplied certificate records.
-Responsibilities are written conservatively; organization-owned materials are intentionally omitted.
--->
+<!-- A4.s03: One GitHub-native profile, one separate portfolio website.
+Source files and projects remain public; confidential employer and student records are excluded. -->
 
 <p align="center">
-  <a href="https://my-samad-portfolio.vercel.app/github" title="Open the live A4.s03 Engineering Dashboard">
-    <img src="./assets/github-dashboard-preview.svg" alt="Premium-white A4.s03 dashboard preview with Abdul Samad Babillail's specialties and selected engineering projects. Click to open the interactive dashboard." width="100%" />
-  </a>
+  <img src="./assets/a4s03-hero.svg" width="100%" alt="A4.s03 — Abdul Samad Babillail. Business Development, IT Infrastructure, Workflow Automation and AI Tooling. Premium-white engineering identity graphic." />
 </p>
 
 <p align="center">
   <strong>Business Development · IT Infrastructure · Workflow Automation · AI Tooling</strong>
-  <br />
-  Building practical technology solutions across enterprise operations, education, and business.
+  <br/>
+  Building useful systems, improving operations, and turning ideas into working tools.
 </p>
 
 <p align="center">
-  <a href="https://my-samad-portfolio.vercel.app/github"><strong>✨ Explore my live engineering dashboard</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://my-samad-portfolio.vercel.app/">Portfolio</a>
+  <a href="https://my-samad-portfolio.vercel.app/"><strong>Portfolio &amp; Case Studies</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abdul-samad-babillail-3bb342249/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Asbabillail?tab=repositories">Repositories</a>
+  <a href="https://github.com/Asbabillail?tab=repositories">All Repositories</a>
 </p>
-
-<sub>The image above previews my separate interactive dashboard. GitHub's native profile layout is controlled by GitHub; the live dashboard includes real public GitHub information.</sub>
 
 ---
 
-### A little about me
+### About me
 
-I'm **Abdul Samad Babillail**, an IT operations and technology professional who works at the intersection of **business needs, infrastructure, and hands-on engineering**.
+I'm **Abdul Samad Babillail**, an IT operations and technology professional based in Saudi Arabia. My work connects **business requirements with technical delivery**—supporting enterprise and education technology, coordinating infrastructure work, and developing practical automation and AI-tooling projects.
 
-My work has moved between customer-facing technical and commercial roles, institutional IT operations, and building tools to simplify repetitive workflows. I care about making systems *usable and dependable*, not just getting them running once.
+I approach technology by understanding the problem, choosing maintainable solutions, documenting the work, and improving how people use systems.
 
-Today, that includes cloud identity, endpoint management, campus technology, vendor coordination, and practical software and AI-tooling projects. **A4.s03** is my personal creative signature; the work is presented under my professional name.
+### Featured engineering projects
 
-### The four disciplines
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Asbabillail/apex-universal-ai" title="Explore APEX — Universal AI">
+    <img src="./assets/projects/apex.svg" width="100%" alt="APEX — Universal AI: experimental prompt intelligence, model selection and AI workflow skills. Visit repository." />
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Asbabillail/atlas-engineering-intelligence" title="Explore ATLAS — Engineering Intelligence">
+    <img src="./assets/projects/atlas.svg" width="100%" alt="ATLAS — Engineering Intelligence: development and architecture guidance. Visit repository." />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Asbabillail/samad-portfolio" title="Explore SAMAD-OS portfolio">
+    <img src="./assets/projects/samad-os.svg" width="100%" alt="SAMAD-OS — Portfolio: Next.js technical case studies and demonstrations. Visit repository." />
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Asbabillail/apple-management-architect" title="Explore Apple Management Architect">
+    <img src="./assets/projects/apple.svg" width="100%" alt="Apple Management Architect: education MDM documentation and device management guidance, in preview. Visit repository." />
+  </a>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="./assets/focus.svg" alt="Four connected practice areas: Business Development, IT Infrastructure, Workflow Automation, and AI Tooling." width="100%" />
-</p>
+<sub>**Project maturity:** APEX and ATLAS are evolving AI and engineering skills frameworks. Apple Management Architect is a documentation preview without live device-command integration. SAMAD-OS contains public portfolio work and illustrative demos.</sub>
 
-| Practice | What I do |
+### Areas of work
+
+| Domain | Technologies and responsibilities |
 | :--- | :--- |
-| **Business development** | Translate requirements into technical proposals, communicate with stakeholders and vendors, and connect technology decisions with operational needs. |
-| **IT infrastructure** | Work across networks, Microsoft 365 and Entra ID, security infrastructure, Apple device management, and Windows endpoint operations. |
-| **Workflow automation** | Develop and prototype small tools for data handling, administration, and repeatable processes with Python, Streamlit, and modern web technology. |
-| **AI tooling** | Explore reusable AI assistant skills, engineering workflows, and prompt/tool evaluation with clear boundaries on what has actually been tested. |
+| **Business development** | Requirements, technical proposals, vendor coordination, solution evaluation and implementation follow-up |
+| **Infrastructure** | Microsoft 365, Entra ID, Cisco networking, Fortinet, smart-classroom and workplace systems |
+| **Device management** | Apple School Manager, Jamf, Microsoft Intune, deployment and device lifecycle support |
+| **Automation & software** | Python, Streamlit, Next.js, TypeScript, React, Supabase and GitHub workflows |
+| **AI tooling** | Reusable prompt and engineering skills, documentation, evaluation and permission-aware workflows |
 
-### Selected public work
+My work also includes institutional account administration, ICT environments, operational handovers and education-technology coordination. **Detailed case studies and demonstrations belong on my [portfolio](https://my-samad-portfolio.vercel.app/).** Confidential employer and student information stays private.
 
-**01 / [APEX — Universal AI Intelligence](https://github.com/Asbabillail/apex-universal-ai)**  
-An *experimental* open-source skills collection for prompt engineering, model suitability, and permission-aware tool workflows. Its repository distinguishes structural checks from unverified live-model performance.
-
-**02 / [ATLAS — Engineering Intelligence](https://github.com/Asbabillail/atlas-engineering-intelligence)**  
-Modular software engineering guidance spanning implementation, frontend, debugging, architecture, security, quality, and AI applications. A skills framework—not an autonomous coding platform.
-
-**03 / [Apple Management Architect](https://github.com/Asbabillail/apple-management-architect)**  
-An early documentation and playbook project for Apple device administration, education MDM scenarios, support decisions, and safe automation planning. **Documentation preview; no operational device-command integration.**
-
-**04 / [SAMAD-OS — Interactive Portfolio](https://github.com/Asbabillail/samad-portfolio)**  
-A Next.js and TypeScript portfolio for presenting selected IT, engineering, and automation work through visual case studies and illustrative demonstrations. [Visit the deployed portfolio](https://my-samad-portfolio.vercel.app/).
-
-### Experience and contributions
-
-My experience spans hands-on technology operations and the business side of implementing technical solutions.
-
-- **School-scale device and identity operations:** work with Apple School Manager, Jamf, Microsoft Intune, Microsoft 365, and Entra ID for enrollment, account administration, application management, and lifecycle support.
-- **Infrastructure and classroom technology:** contribute to network and security-system coordination, smart-classroom technology, ICT environments, and education-technology deployments.
-- **Vendor and stakeholder coordination:** translate technical needs into procurement discussions, solution comparisons, implementation follow-ups, and operational handover documentation.
-- **Administrative workflow automation:** developed tools for educational administration and fee/quotation workflows; institution-specific code and commercial rules are **not reproduced in this profile**.
-- **Public engineering documentation:** maintain open-source projects with explicit development status, scope limitations, and practical setup or verification guidance.
-
-These describe areas of responsibility and project participation—not audited performance figures, blanket compliance claims, or guarantees that every planned rollout is complete.
-
-### Technologies I work with
-
-**Cloud & identity:** Microsoft 365 · Microsoft Entra ID · Exchange Online · SharePoint · Teams  
-**Endpoints & education IT:** Apple School Manager · Jamf · Microsoft Intune · SMART classroom systems  
-**Infrastructure & operations:** Fortinet · Cisco networking · access control/CCTV concepts · vendor coordination  
-**Building & automation:** Python · Streamlit · TypeScript · Next.js · React · Supabase · GitHub Actions
+---
 
 ### Course Completion & Certifications
 
@@ -110,26 +98,19 @@ Certificates recognizing contributions and professional participation.
 
 <sub>These are optimized image previews of the actual documents, with verification identifiers obscured where present. **SAP/Forage is a virtual job simulation; Simplilearn SkillUp and Udemy entries are course completions, not vendor professional certifications.** The Hikvision HCSA-Alarm certification expired in April 2026.</sub>
 
-### What I'm exploring next
 
-Better device lifecycle workflows, maintainable IT documentation, responsible AI-assisted troubleshooting, and small, testable software that solves genuine operational problems.
+### Currently exploring
 
-<details>
-<summary><b>How I approach engineering work</b></summary>
-<br />
-
-I prefer starting with the real requirement, reviewing the evidence, and testing the smallest useful change. For operational systems that means respecting permissions, documenting assumptions, keeping sensitive information private, and distinguishing plans from verified outcomes.
-
-I try to connect technical delivery with practical business constraints: reliability, maintainability, cost, and the experience of the people using the system.
-
-</details>
+Maintainable IT operations, reliable device lifecycles, safe automation and AI-assisted engineering—distinguishing proposals, prototypes and verified results.
 
 ---
 
 <p align="center">
-  <b>A4.s03</b> · Designed to be useful, documented, and improved.
-  <br />
-  <a href="https://my-samad-portfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/Asbabillail?tab=repositories">Projects</a> · <a href="https://www.linkedin.com/in/abdul-samad-babillail-3bb342249/">Connect</a>
+  <strong>A4.s03</strong> · Abdul Samad Babillail
+  <br/>
+  <a href="https://my-samad-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdul-samad-babillail-3bb342249/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Asbabillail?tab=repositories">GitHub Projects</a>
 </p>
 
-<sub>Public materials intentionally exclude private employer records, device identifiers, credentials, internal network details, and confidential business logic. Project maturity is noted where relevant.</sub>
+<sub>No private infrastructure diagrams, passwords, certificate identifiers, confidential pricing, or invented contribution statistics. GitHub supplies my actual activity calendar below the README.</sub>
