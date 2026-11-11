@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="228" viewBox="0 0 580 228" role="img" aria-labelledby="title desc">
+<title id="title">ATLAS — Engineering Intelligence</title><desc id="desc">Modular software engineering and architecture guidance. Selected public GitHub project.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7FF"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#296CE1"/><stop offset="1" stop-color="#102F6B"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="577" height="225" rx="20" fill="url(#bg)" stroke="#D7E4F5" stroke-width="3"/>
+<path d="M19 17 H561" stroke="#EDF2F9" stroke-width="2"/>
+<circle cx="545" cy="35" r="76" fill="#296CE1" opacity=".055"/>
+<rect x="33" y="52" width="76" height="76" rx="21" fill="url(#accent)"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" d="M50 74 L69 63 L88 74 L69 86 Z M50 74 V96 L69 107 L69 86 M88 74 V96 L69 107"/>
+<text x="34" y="37" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" fill="#296CE1">A4.s03</text>
+<text x="545" y="37" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.1" font-weight="700" fill="#8495AC">02 / 04</text>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="800" fill="#1C2E4B" letter-spacing="-.3"><text x="140" y="77" font-size="24">ATLAS — Engineering</text><text x="140" y="108" font-size="24">Intelligence</text></g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#62738D">
+ <text x="140" y="142">Modular software engineering and</text>
+ <text x="140" y="165">architecture guidance</text>
+</g>
+<path d="M34 181 H545" stroke="#DAE5F2" stroke-width="2"/>
+<path d="M34 181 H117" stroke="#296CE1" stroke-width="3"/>
+<text x="34" y="211" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="800" letter-spacing=".8" fill="#59739B">ENGINEERING / GUIDES</text>
+<text x="545" y="211" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" fill="#296CE1">VIEW REPOSITORY ↗</text>
+</svg>
