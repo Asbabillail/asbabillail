@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="228" viewBox="0 0 580 228" role="img" aria-labelledby="title desc">
+<title id="title">APEX — Universal AI</title><desc id="desc">Prompt intelligence, model selection, and reusable AI workflow skills. Selected public GitHub project.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F7FF"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6959CF"/><stop offset="1" stop-color="#102F6B"/></linearGradient>
+</defs>
+<rect x="1.5" y="1.5" width="577" height="225" rx="20" fill="url(#bg)" stroke="#D7E4F5" stroke-width="3"/>
+<path d="M19 17 H561" stroke="#EDF2F9" stroke-width="2"/>
+<circle cx="545" cy="35" r="76" fill="#6959CF" opacity=".055"/>
+<rect x="33" y="52" width="76" height="76" rx="21" fill="url(#accent)"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" d="M49 73 L68 62 L87 73 L68 85 Z M49 86 L68 98 L87 86 M49 99 L68 111 L87 99"/>
+<text x="34" y="37" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" fill="#6959CF">A4.s03</text>
+<text x="545" y="37" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.1" font-weight="700" fill="#8495AC">01 / 04</text>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="800" fill="#1C2E4B" letter-spacing="-.3"><text x="140" y="91" font-size="25">APEX — Universal AI</text></g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#62738D">
+ <text x="140" y="138">Prompt intelligence, model selection,</text>
+ <text x="140" y="161">and reusable AI workflow skills</text>
+</g>
+<path d="M34 181 H545" stroke="#DAE5F2" stroke-width="2"/>
+<path d="M34 181 H117" stroke="#6959CF" stroke-width="3"/>
+<text x="34" y="211" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="800" letter-spacing=".8" fill="#59739B">EXPERIMENTAL / AI SKILLS</text>
+<text x="545" y="211" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" fill="#6959CF">VIEW REPOSITORY ↗</text>
+</svg>
