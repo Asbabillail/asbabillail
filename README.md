@@ -5,20 +5,28 @@ Responsibilities are written conservatively; organization-owned materials are in
 -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="A4.s03 — Abdul Samad Babillail. Business development, IT infrastructure, workflow automation and AI tooling." width="100%" />
+  <a href="https://my-samad-portfolio.vercel.app/github" title="Open the live A4.s03 Engineering Dashboard">
+    <img src="./assets/github-dashboard-preview.svg" alt="Premium-white A4.s03 dashboard preview with Abdul Samad Babillail's specialties and selected engineering projects. Click to open the interactive dashboard." width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Business Development · IT Infrastructure · Workflow Automation · AI Tooling</b>
+  <strong>Business Development · IT Infrastructure · Workflow Automation · AI Tooling</strong>
   <br />
-  Based in Saudi Arabia · Working across enterprise operations and practical software
+  Building practical technology solutions across enterprise operations, education, and business.
 </p>
 
 <p align="center">
-  <a href="https://my-samad-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abdul-samad-babillail-3bb342249/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Asbabillail?tab=repositories">All repositories</a>
+  <a href="https://my-samad-portfolio.vercel.app/github"><strong>✨ Explore my live engineering dashboard</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://my-samad-portfolio.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdul-samad-babillail-3bb342249/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Asbabillail?tab=repositories">Repositories</a>
 </p>
+
+<sub>The image above previews my separate interactive dashboard. GitHub's native profile layout is controlled by GitHub; the live dashboard includes real public GitHub information.</sub>
 
 ---
 
