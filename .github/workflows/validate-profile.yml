@@ -1,0 +1,44 @@
+name: Validate native GitHub profile
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - "assets/**"
+      - ".github/workflows/validate-profile.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Validate SVGs, README references, and credential layout
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import pathlib, re, xml.etree.ElementTree as ET
+          root = pathlib.Path(".")
+          doc = (root / "README.md").read_text(encoding="utf-8")
+          assert "my-samad-portfolio.vercel.app/github" not in doc, "Old duplicate dashboard link"
+          assert "./assets/a4s03-hero.svg" in doc, "Hero missing"
+          assert doc.count('src="./assets/projects/') == 4, "Expected four project cards"
+          assert doc.count('src="./assets/certificates/') == 20, "Expected all twenty certificate pictures"
+          assert "### Course Completion & Certifications" in doc
+          assert "### Appreciation" in doc
+          assert doc.index("forage-technical-consulting.webp") < doc.index("google-educator-level1.webp"), "User-specified certificate order"
+          links = re.findall(r'<img[^>]+src="([^"]+)"', doc)
+          for link in links:
+              assert link.startswith("./assets/"), f"Unexpected image source {link}"
+              assert (root / link).is_file(), f"Broken image reference {link}"
+          for file in (root / "assets").rglob("*.svg"):
+              tree = ET.parse(file)
+              assert tree.getroot().tag == "{http://www.w3.org/2000/svg}svg", f"Invalid SVG namespace in {file}"
+              assert "<script" not in file.read_text(encoding="utf-8"), f"Unexpected executable SVG content in {file}"
+          print(f"PASS: {len(links)} images resolved, all SVGs parse, credential sections and project links verified.")
+          PY
